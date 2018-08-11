@@ -1,0 +1,1 @@
+delivered_paginate.blade.php

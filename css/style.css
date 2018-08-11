@@ -1,0 +1,23 @@
+/* Your custom styles */
+
+.margin-top{
+
+	margin-top:  50px;
+}
+
+.main_nav{
+
+	min-height: 50px;
+}
+
+.logo_title{
+
+	font-weight: bold;
+}
+
+.owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item{
+    -ms-touch-action: auto;
+        touch-action: auto;
+}
+
+/*slider */
